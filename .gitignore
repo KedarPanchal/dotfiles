@@ -10,3 +10,6 @@ opencode/.config/opencode/package.json
 opencode/.config/opencode/package-lock.json
 opencode/.config/opencode/bun.lock
 opencode/.config/opencode/.gitignore
+
+# Secrets
+**/client_secret*.json

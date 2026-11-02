@@ -1,0 +1,3 @@
+[submodule "agents/.agents/skills/google-docs"]
+	path = agents/.agents/skills/google-docs
+	url = https://github.com/danielkwapien/google-docs-skill.git
