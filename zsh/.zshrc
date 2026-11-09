@@ -128,6 +128,8 @@ alias python="python3"
 alias pip="python3 -m pip"
 alias sudo="sudo "
 alias ls="ls -la"
+eval $(thefuck --alias)
+
 notify() {
     "$@"
     local exit_code=$?
