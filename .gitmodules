@@ -1,3 +1,6 @@
 [submodule "agents/.agents/skills/google-docs"]
 	path = agents/.agents/skills/google-docs
 	url = https://github.com/danielkwapien/google-docs-skill.git
+[submodule "agents/.agents/skills/humanizer"]
+	path = agents/.agents/skills/humanizer
+	url = https://github.com/blader/humanizer.git
